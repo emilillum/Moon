@@ -6,7 +6,7 @@ date: 2016-03-21
 comments: false
 ---
     
-<center><a href="https://emilillum.github.io/personalblog/"><b>Moon</b></a> is a minimal, one column jekyll theme.</
+<center><a href="https://emilillum.github.io/personalblog/"><b>Moon</b></a> is a minimal, one column jekyll theme.</center>
 
 ## Features
 * Minimal, you can focus on your content
